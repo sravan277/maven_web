@@ -83,7 +83,7 @@
 
     <div class="header">
        
-        <h1>John Carter</h1>
+        <h1>Ram charan</h1>
         <p>Professional Sprinter | 100m & 200m Champion</p>
     </div>
 
